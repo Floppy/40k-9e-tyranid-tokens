@@ -14,14 +14,14 @@ paper, cut out, and stuck onto a 32mm base.
 You'll probably get the best print results from the SVG file, but if the font (Futura) doesn't look 
 right and the text is too large, try the PDF instead.
 
-![a set of tokens on 32mm bases](preview-tokens.jpg]
+![a set of tokens on 32mm bases](preview-tokens.jpg)
 
 # Synaptic Imperative cards
 
 Rather than tokens, Synaptic Imperatives are cards, created using [MTG.Design](https://mtg.design/u/Floppy9950/TYR), 
 a great card designer for Magic: The Gathering.
 
-![a set of printed and laminated Synaptic Imperative cards](preview-cards.jpg]
+![a set of printed and laminated Synaptic Imperative cards](preview-cards.jpg)
 
 # Credits
 
