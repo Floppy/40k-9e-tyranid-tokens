@@ -16,6 +16,8 @@ right and the text is too large, try the PDF instead.
 
 ![a set of tokens on 32mm bases](preview-tokens.jpg)
 
+(all the hive fleet-specific psychic powers are included, I just didn't print up the ones I never use)
+
 # Synaptic Imperative cards
 
 Rather than tokens, Synaptic Imperatives are cards, created using [MTG.Design](https://mtg.design/u/Floppy9950/TYR), 
